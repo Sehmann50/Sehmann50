@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to safeguard complex systems with the aid of AI
 - 💞️ I’m looking to collaborate on exchange of knowledge about development of safe and secure complex systems
 - 📫 How to reach me: contact@mcgnet.de
-- 😄 Pronouns: m
+
 
 
 <!---
